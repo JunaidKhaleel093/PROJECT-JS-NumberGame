@@ -3,7 +3,7 @@ This repository contains a simple random number guessing game implemented in Jav
 # Features:
 Generates a random number between 1 and 10.
 Provides feedback to the user whether the guessed number is too low, too high, or correct.
-Simple and interactive user interface.
+Simple and interactive user interface.<br>
 Game continues until the user guesses the correct number.
 Uses JavaScript for game logic and DOM manipulation.
 
