@@ -11,46 +11,15 @@ body{
     backdrop-filter: blur(5px);
 }
 .bttn {
-  appearance: none;
-  background-color: #000000;
-  border: 2px solid #1a1a1a;
-  border-radius: 15px;
-  box-sizing: border-box;
-  color: #ffffff;
-  cursor: pointer;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
-    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 16px;
-  font-weight: 600;
-  line-height: normal;
-  margin: 0;
-  min-height: 60px;
-  min-width: 60px;
-  outline: none;
-  padding: 16px 24px;
-  text-align: center;
-  text-decoration: none;
-  transition: all 300ms cubic-bezier(0.23, 1, 0.32, 1);
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  width: 25%;
-  will-change: transform;
-}
-
-.bttn:disabled {
-  pointer-events: none;
+    background-color: #000000; /* Blue background */
+    color: white;              /* White text */
+    padding: 10px 20px;        /* Padding */
+    border: none;              /* No border */
+    border-radius: 5px;        /* Rounded corners */
+    cursor: pointer;           /* Pointer cursor on hover */
+    transition: background-color 0.3s ease; /* Smooth transition */
 }
 
 .bttn:hover {
-  box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
-  transform: translateY(-2px);
-}
-
-.bttn:active {
-  box-shadow: none;
-  transform: translateY(0);
+    background-color: #2a0101; /* Darker blue on hover */
 }
