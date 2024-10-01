@@ -7,6 +7,6 @@ Simple and interactive user interface.<br>
 Game continues until the user guesses the correct number.
 Uses JavaScript for game logic and DOM manipulation.
 
-PROJECT-JS-NumberGame.html: The main HTML file that structures the game interface.<br>
-PROJECT-JS-STYLE.css: The CSS file to style the game interface.<br>
-PROJECT-JS-SCRIPT.js: The JavaScript file that contains the game logic, including generating random numbers and handling user inputs.<br>
+## 🛠 Skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
